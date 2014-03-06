@@ -52,7 +52,6 @@ for year in range(1824,1999):
 		if debug: 
 			print(result["localityLabel"]["value"] + "\t" + result["itemCount"]["value"])
 			print ">>>>>>>>>>>" + str(didItInsert)
-	#print "For " + str(year) + ", "+ str(len(results)) + " items, total inventory is " + str(acquisitions.count())
 	if debug:
 		print "For " + str(year) + ", total inventory is " + str(acquisitions.count())
 		
