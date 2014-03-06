@@ -3,9 +3,7 @@ britmuseum_acq_analysis
 
 Philadelphia GLAM Hack project to analyze the acquisition dates and provenances of items in the British Museum collection.
 
-Our team:
-
-Alex Brey, Ben Carlson, Natalia Ermolaev, Michael Lesk, Megan Miller, Emily Morton-Owens, Danielle Reay
+Our team: Alex Brey, Ben Carlson, Natalia Ermolaev, Michael Lesk, Megan Miller, Emily Morton-Owens, Danielle Reay
 
 We were exploring the linked open data made available by the British Museum and became curious about whether we could 
 spot any trends in where/when it was acquired, particularly whether the museum was acquiring a lot of materials from its
